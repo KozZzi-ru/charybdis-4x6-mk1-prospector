@@ -1,9 +1,0 @@
-file_format: "1"
-id: charybdis_dongle
-name: Charybdis Dongle
-type: shield
-url: https://github.com/bastardkb/charybdis/
-requires: [pro_micro]
-features:
-  - keys
-  - pointer
