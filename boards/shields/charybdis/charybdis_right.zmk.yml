@@ -1,0 +1,9 @@
+file_format: "1"
+id: charybdis_right
+name: Charybdis Right
+type: shield
+url: https://github.com/bastardkb/charybdis/
+requires: [pro_micro]
+features:
+  - keys
+  - pointer
